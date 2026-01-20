@@ -19,8 +19,3 @@ LangChain
 Ollama (for local models)
 OpenAI API (for cloud models)
 dotenv (for environment variables)
-
-INSTALLATION:
-Clone the Repository
-git clone https://github.com/your-username/langchain-chatbot.git
-cd langchain-chatbot
